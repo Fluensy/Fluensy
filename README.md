@@ -15,9 +15,7 @@
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2500&pause=600&color=72C9E4&center=true&vCenter=true&width=435&lines=Welcome;Developer;Ethical-Hacker;Cyber Security;Never Yield An Advantage" alt="Typing SVG" /></a>
   </kbd> 
 
-
-
-
+                                                     
 
 
   <details open>
@@ -37,6 +35,7 @@
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
     <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+  </p>
   </p>
 </details>
 </div>
