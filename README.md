@@ -6,18 +6,14 @@
   <img src=https://github.com/Fluensy/Fluensy/blob/main/hydra-we-bhack.gif width="150" height="150" /img></p>
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=435&lines=Flu)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=F70301&center=true&vCenter=true&repeat=false&width=435&lines=Flu)](https://git.io/typing-svg)
 
 
  
   
   <kbd>
-    <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Welcome;Developer;Ethical-Hacker;Cyber;Never Yield An Advantage" alt="Typing SVG" /></a>
-  </kbd>
-
-
-
-
+    <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Welcome;Developer;Ethical-Hacker;Cyber Security;Never Yield An Advantage" alt="Typing SVG" /></a>
+  </kbd> 
 
 
 
