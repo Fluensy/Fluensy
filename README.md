@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <img src=https://giphy.com/gifs/loop-glitch-matrix-l0IyeheChYxx2byDu width="150" height="150"</img></p>
+  <img src=https://github.com/Fluensy/Fluensy/blob/main/hydra-we-bhack.gif width="150" height="150" /img></p>
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+Flu's+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=435&lines=Flu)](https://git.io/typing-svg)
 
 
  
